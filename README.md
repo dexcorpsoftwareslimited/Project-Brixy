@@ -1,5 +1,5 @@
 # Project-Brixy
-This is an inspiration project of marvel's Jarvis & Friday AI. <br>
+This is an inspiration project of marvel's Jarvis & Friday AI.
 There are 4 Variants of Brixy Having Different Features. <br>
 1. Brixy-Mark--1 (Functional)  <a href="https://github.com/dexcorpsoftwareslimited/Brixy-Mark--1">Click To Visit</a> <br>
 2. Brixy-Mark--2 (Web Based)  <a href="https://github.com/dexcorpsoftwareslimited/Brixy-Mark--2">Click To Visit</a> <br>
